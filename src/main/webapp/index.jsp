@@ -1,9 +1,9 @@
 <html>
 <head>
-<body bgcolor="red">
+<body >
 <h1 >hello world</h1>
-<h2>this is DEVOPS LAB</h2>
-<h3>welcome to acoecse</h3>
+<h2>This is DEVOPS LAB</h2>
+
 </body>
 </head>
 </html>
